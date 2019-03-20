@@ -1,0 +1,17 @@
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\IntroWCF\IntroWCF\bin\IntroWCF.dll.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\IntroWCF\IntroWCF\bin\IntroWCF.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\IntroWCF\IntroWCF\bin\IntroWCF.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\IntroWCF\IntroWCF\obj\Release\IntroWCF.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\IntroWCF\IntroWCF\obj\Release\IntroWCF.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\IntroWCF\IntroWCF\bin\IntroWCF.dll.config
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\IntroWCF\IntroWCF\bin\IntroWCF.dll
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\IntroWCF\IntroWCF\bin\IntroWCF.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\IntroWCF\IntroWCF\obj\Release\IntroWCF.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\IntroWCF\IntroWCF\obj\Release\IntroWCF.dll
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\IntroWCF\IntroWCF\obj\Release\IntroWCF.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Servicios Web WCF C#\IntroWCF\IntroWCF\bin\IntroWCF.dll.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Servicios Web WCF C#\IntroWCF\IntroWCF\bin\IntroWCF.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Servicios Web WCF C#\IntroWCF\IntroWCF\bin\IntroWCF.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Servicios Web WCF C#\IntroWCF\IntroWCF\obj\Release\IntroWCF.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Servicios Web WCF C#\IntroWCF\IntroWCF\obj\Release\IntroWCF.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Servicios Web WCF C#\IntroWCF\IntroWCF\obj\Release\IntroWCF.pdb

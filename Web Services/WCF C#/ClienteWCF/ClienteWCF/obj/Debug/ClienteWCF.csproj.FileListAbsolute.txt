@@ -1,0 +1,21 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\ClienteWCF\bin\Debug\ClienteWCF.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\bin\Debug\ClienteWCF.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\bin\Debug\ClienteWCF.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\bin\Debug\ClienteWCF.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.ClienteWCF_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\WCF Web Services\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\ClienteWCF\ClienteWCF\bin\Debug\ClienteWCF.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.pdb
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\bin\Debug\ClienteWCF.exe.config
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\bin\Debug\ClienteWCF.exe
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\bin\Debug\ClienteWCF.pdb
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.csprojResolveAssemblyReference.cache
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.ClienteWCF_Frm.resources
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.Properties.Resources.resources
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.csproj.GenerateResource.Cache
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.exe
+D:\OneDrive\DeveLearning\C#\Servicios Web WCF C#\ClienteWCF\ClienteWCF\obj\Debug\ClienteWCF.pdb

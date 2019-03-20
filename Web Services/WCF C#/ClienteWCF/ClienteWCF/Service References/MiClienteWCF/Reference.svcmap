@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1b103df8-b75e-4be4-982c-c6adfa9148bf" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/IntroWCF/MiServicio.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MiServicio.wsdl" MetadataType="Wsdl" ID="4b2271cd-c5f0-4d70-b633-5a26d295f7f7" SourceId="1" SourceUrl="http://localhost/IntroWCF/MiServicio.svc?wsdl" />
+    <MetadataFile FileName="MiServicio.xsd" MetadataType="Schema" ID="567aab5f-b958-4918-b13c-7a806dc9734b" SourceId="1" SourceUrl="http://localhost/IntroWCF/MiServicio.svc?xsd=xsd2" />
+    <MetadataFile FileName="MiServicio.disco" MetadataType="Disco" ID="3c14c743-f7e0-42b4-91a6-8e8ba65c6a43" SourceId="1" SourceUrl="http://localhost/IntroWCF/MiServicio.svc?disco" />
+    <MetadataFile FileName="MiServicio1.xsd" MetadataType="Schema" ID="1e1fde25-faed-4ddf-8c57-7b8b9a23995d" SourceId="1" SourceUrl="http://localhost/IntroWCF/MiServicio.svc?xsd=xsd0" />
+    <MetadataFile FileName="MiServicio2.xsd" MetadataType="Schema" ID="a255f4d7-8a4a-4ee8-a1e5-5ae99e17a3d2" SourceId="1" SourceUrl="http://localhost/IntroWCF/MiServicio.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

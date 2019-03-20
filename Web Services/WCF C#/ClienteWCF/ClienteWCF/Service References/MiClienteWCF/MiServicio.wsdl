@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MiServicio" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/IntroWCF/MiServicio.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/IntroWCF/MiServicio.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/IntroWCF/MiServicio.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/IntroWCF" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IMiServicio_Saludar_InputMessage">
+    <wsdl:part name="parameters" element="tns:Saludar" />
+  </wsdl:message>
+  <wsdl:message name="IMiServicio_Saludar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaludarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMiServicio_DevuelveObjetoPersona_InputMessage">
+    <wsdl:part name="parameters" element="tns:DevuelveObjetoPersona" />
+  </wsdl:message>
+  <wsdl:message name="IMiServicio_DevuelveObjetoPersona_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DevuelveObjetoPersonaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMiServicio_DevuelvePersona_InputMessage">
+    <wsdl:part name="parameters" element="tns:DevuelvePersona" />
+  </wsdl:message>
+  <wsdl:message name="IMiServicio_DevuelvePersona_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DevuelvePersonaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMiServicio_DevuelveListaPersonas_InputMessage">
+    <wsdl:part name="parameters" element="tns:DevuelveListaPersonas" />
+  </wsdl:message>
+  <wsdl:message name="IMiServicio_DevuelveListaPersonas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DevuelveListaPersonasResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IMiServicio">
+    <wsdl:operation name="Saludar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMiServicio/Saludar" message="tns:IMiServicio_Saludar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMiServicio/SaludarResponse" message="tns:IMiServicio_Saludar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DevuelveObjetoPersona">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMiServicio/DevuelveObjetoPersona" message="tns:IMiServicio_DevuelveObjetoPersona_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMiServicio/DevuelveObjetoPersonaResponse" message="tns:IMiServicio_DevuelveObjetoPersona_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DevuelvePersona">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMiServicio/DevuelvePersona" message="tns:IMiServicio_DevuelvePersona_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMiServicio/DevuelvePersonaResponse" message="tns:IMiServicio_DevuelvePersona_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DevuelveListaPersonas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMiServicio/DevuelveListaPersonas" message="tns:IMiServicio_DevuelveListaPersonas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMiServicio/DevuelveListaPersonasResponse" message="tns:IMiServicio_DevuelveListaPersonas_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="MiServicio" />
+</wsdl:definitions>
